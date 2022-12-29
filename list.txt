@@ -1,0 +1,20 @@
+Toy Train: 10 200$
+Lego: 9 80$
+Board Game: 3 30$
+Plushy: 6 20$
+Doll: 2 10$
+Playmobil: 8 80$
+Toy Car: 5 20$
+Chalkboard: 4 70$
+Headphones: 6 10$
+Books: 10 40$
+Colored Pencils: 5 10$
+Nintendo Switch: 10 300$
+Guitar: 8 150$
+Bicycle: 9 100$
+Backpack: 6 30$
+Speakers: 3 20$
+Hoodie: 7 60$
+T-Shirts: 9 120$
+Card Game: 10 10$
+Desk Plant: 8 10$
